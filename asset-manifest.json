@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/demo-advent/static/css/main.d073eea8.css",
+    "main.js": "/demo-advent/static/js/main.79f6aaf2.js",
+    "static/js/488.f472b0be.chunk.js": "/demo-advent/static/js/488.f472b0be.chunk.js",
+    "static/media/img_advent_lg.png": "/demo-advent/static/media/img_advent_lg.875715f2f4f2b2a11b23.png",
+    "static/media/img_advent_3.png": "/demo-advent/static/media/img_advent_3.eb9a6dd5421eaa166f5d.png",
+    "static/media/img_advent_2.png": "/demo-advent/static/media/img_advent_2.6ba9bc48a06ce2431916.png",
+    "index.html": "/demo-advent/index.html",
+    "main.d073eea8.css.map": "/demo-advent/static/css/main.d073eea8.css.map",
+    "main.79f6aaf2.js.map": "/demo-advent/static/js/main.79f6aaf2.js.map",
+    "488.f472b0be.chunk.js.map": "/demo-advent/static/js/488.f472b0be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d073eea8.css",
+    "static/js/main.79f6aaf2.js"
+  ]
+}

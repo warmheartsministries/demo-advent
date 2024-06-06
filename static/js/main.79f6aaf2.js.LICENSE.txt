@@ -1,0 +1,143 @@
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description A React component that renders an Blog page.
+ * @component
+ * @returns {Row} The Blog page container
+ * @category Pages
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description A React component that renders the page {@link Header}
+ * and the navigation {@link Menu} page. Page navigations are handled
+ * by the {@link NavRouter}.
+ * @component
+ * @returns {(Header|Menu)} {@link Header} & {@link Menu} Container
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description A component that displays a different
+ * calendar layout depending on the device screen size -
+ * a christmas tree for large devices, a christmas ornament
+ * for medium devices, and a nutcracker for small devices.
+ * Calendar days are basically buttons returned by {@link CalendarButton}.
+ * @param props {CalendarPanelProps}
+ * @returns {Row} The container for the calendar
+ * @component
+ *
+ * @author Cynthia Escano
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description A component that renders the calendar
+ * day text and a FontAwesome icon.
+ * @param props {ButtonTextProps}
+ * @returns {string} The calendar button text
+ * @component
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description The props interface for the {@link CalendarPanel}.
+ * @interface
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description The props interface for {@link CalendarItemModal}
+ * @interface
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description the props interface of {@link CalendarButtonText}.
+ * @interface
+ */
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @remix-run/router v1.16.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router DOM v6.23.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.23.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
